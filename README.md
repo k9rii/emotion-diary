@@ -1,12 +1,28 @@
-# React + Vite
+# 감정 일기장 (Emotion Diary)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 인프런 강의 [한입 크기로 잘라 먹는 리액트](https://inf.run/)를 수강하며 제작한 감정 일기장 프로젝트입니다.  
+> React 기본기와 상태 관리, 컴포넌트 구조 설계, 라우팅을 학습하기 위해 만든 웹 애플리케이션입니다.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 배포 링크
+👉 [감정 일기장 바로가기](https://emotion-diary-5b11b7cpc-k9riis-projects.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 주요 기능
+- ✏️ 일기 쓰기 (감정 선택 + 내용 작성)  
+- 📖 일기 수정 및 삭제  
+- 📅 날짜별 일기 관리  
+- 😀 감정 아이콘을 통한 시각적 구분  
+- 🔍 최신순 / 오래된순 정렬  
+
+---
+
+## 🛠️ 사용 기술
+- **React** (Vite)  
+- **React Router DOM** : 페이지 이동 및 파라미터 관리  
+- **Context API** : 전역 상태 관리  
+- **Hooks** (`useState`, `useEffect`, `useContext`, `useReducer`)  
+- **Vercel** : 배포  
+
