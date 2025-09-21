@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 배포 링크
-👉 [감정 일기장 바로가기](https://emotion-diary-5b11b7cpc-k9riis-projects.vercel.app/)
+👉 [감정 일기장 바로가기](https://emotion-diary-5bi1b7cpc-k9riis-projects.vercel.app/)
 
 ---
 
